@@ -14,34 +14,34 @@ Les fonctionnalités principales sont les suivantes :
 
 ## Fonctionnalités
 
-### 1. Page d’accueil
+## 1. Page d’accueil
 La page d’accueil présente un accès simple aux utilisateurs et aux techniciens. Elle permet d'accéder à la création de tickets pour les utilisateurs et à la gestion des tickets pour les techniciens.
 
-### 2. Demande d’assistance pour les utilisateurs
+## 2. Demande d’assistance pour les utilisateurs
 Les utilisateurs peuvent soumettre une demande d’assistance en remplissant un formulaire avec les informations nécessaires à la gestion de l’incident. Ils doivent spécifier la catégorie de la demande à l’aide d’un menu déroulant (ex. : Problème matériel, Problème logiciel, etc.). Après avoir soumis la demande, un numéro de ticket est généré et affiché à l’utilisateur.
 
-### 3. Système de connexion
+## 3. Système de connexion
 Un système de login avec identifiant et mot de passe est en place pour accéder à la gestion des tickets. Seuls les techniciens peuvent se connecter pour gérer les tickets et modifier leur statut.
 
-### 4. Gestion des tickets
+## 4. Gestion des tickets
 Les techniciens ont accès à un panneau d’administration où les tickets sont affichés avec leur statut (ouvert, en cours, fermé). Ils peuvent consulter chaque ticket et modifier son statut en un clic. La couleur du statut change automatiquement pour une meilleure lisibilité.
 
-### 5. Consultation et modification des tickets
+## 5. Consultation et modification des tickets
 Les techniciens peuvent consulter les détails de chaque ticket et, si nécessaire, ajouter des commentaires ou modifier les informations. Ils peuvent aussi changer le statut du ticket pour refléter l’avancement de l’intervention.
 
-### 6. Création de comptes techniciens
+## 6. Création de comptes techniciens
 Un panneau d'administration permet aux administrateurs de créer des comptes pour les techniciens, leur attribuant un identifiant et un mot de passe.
 
-### 7. Système de logs
+## 7. Système de logs
 Tous les événements importants (création d’un ticket, modification de statut, connexion, etc.) sont enregistrés dans un système de logs afin d'assurer la traçabilité et d'identifier les actions effectuées par les utilisateurs et techniciens.
 
-### 8. Sécurité (inactif)
+## 8. Sécurité (inactif)
 
-### 9. Interface responsive (inactif)
+## 9. Interface responsive (inactif)
 
-### 10. Mise en page (inactif)
+## 10. Mise en page (inactif)
 
-## Technologies utilisées
+## Languages utilisés
 
 - **Langage de programmation** : PHP
 - **Base de données** : MySQL
