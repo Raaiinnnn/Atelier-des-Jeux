@@ -30,11 +30,18 @@ Un système de login avec identifiant et mot de passe est en place pour accéder
 ## 4. Gestion des tickets
 Les techniciens ont accès à un panneau d’administration où les tickets sont affichés avec leur statut (ouvert, en cours, fermé). Ils peuvent consulter chaque ticket et modifier son statut en un clic. La couleur du statut change automatiquement pour une meilleure lisibilité.
 
+En raison d'un problème technique avec la base de données, je ne peux pas vous montrer la fonction en détails de ce script. Cela sera mis à jour une fois le problème traité.
+
+![image](https://github.com/user-attachments/assets/4918f94c-21e9-4252-84f5-520013ab6564)
+
 ## 5. Consultation et modification des tickets
 Les techniciens peuvent consulter les détails de chaque ticket et, si nécessaire, ajouter des commentaires ou modifier les informations. Ils peuvent aussi changer le statut du ticket pour refléter l’avancement de l’intervention.
 
 ## 6. Création de comptes techniciens
 Un panneau d'administration permet aux administrateurs de créer des comptes pour les techniciens, leur attribuant un identifiant et un mot de passe.
+En raison d'un problème technique avec la base de données, une fois de plus, je ne peux pas vous montrer la fonction en détails de ce script. Cela sera mis à jour une fois le problème traité.
+
+![image](https://github.com/user-attachments/assets/7bccef48-f559-4394-af72-4d5be566b4de)
 
 ## 7. Système de logs
 Tous les événements importants (création d’un ticket, modification de statut, connexion, etc.) sont enregistrés dans un système de logs afin d'assurer la traçabilité et d'identifier les actions effectuées par les utilisateurs et techniciens.
