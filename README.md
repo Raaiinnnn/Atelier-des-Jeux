@@ -16,9 +16,12 @@ Les fonctionnalités principales sont les suivantes :
 
 ## 1. Page d’accueil
 La page d’accueil présente un accès simple aux utilisateurs et aux techniciens. Elle permet d'accéder à la création de tickets pour les utilisateurs et à la gestion des tickets pour les techniciens.
+![image](https://github.com/user-attachments/assets/2701396e-d138-458d-bbf9-93b66e00fa3b)
 
 ## 2. Demande d’assistance pour les utilisateurs
 Les utilisateurs peuvent soumettre une demande d’assistance en remplissant un formulaire avec les informations nécessaires à la gestion de l’incident. Ils doivent spécifier la catégorie de la demande à l’aide d’un menu déroulant (ex. : Problème matériel, Problème logiciel, etc.). Après avoir soumis la demande, un numéro de ticket est généré et affiché à l’utilisateur.
+![image](https://github.com/user-attachments/assets/8c7e02de-156a-475d-9cc6-2f2c4f17965b)
+(La selection "home" permet de revenir à la page d'accueil)
 
 ## 3. Système de connexion
 Un système de login avec identifiant et mot de passe est en place pour accéder à la gestion des tickets. Seuls les techniciens peuvent se connecter pour gérer les tickets et modifier leur statut.
